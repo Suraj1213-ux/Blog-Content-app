@@ -1,0 +1,82 @@
+.navbar {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 10vh;
+  border: 1px solid transparent;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.Heading{
+  color: whitesmoke;
+  background: fixed;
+  text-align: left;
+  display: flex;
+  margin-top: 0.5px;
+
+}
+
+.App-content {
+  background-color: whitesmoke;
+  height: 100vh;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+
+.isActive {
+  color: black;
+  text-decoration: none;
+  background-color: rgb(161, 169, 249);
+  padding: 10px;
+  margin: auto;
+  border: 1px solid transparent;
+  border-radius: 10px;
+
+}
+
+.isActive:hover {
+  color: white;
+  background-color: rgb(253, 170, 107);
+}
+
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  padding: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(249, 241, 230);
+  border: 1px solid transparent;
+  border-radius: 20px;
+  margin: 20px;
+  box-shadow: 10px;
+}
+
+p {
+  text-align: left;
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  border: 0.5px solid transparent;
+  border-radius: 10px;
+}
+
+h2 {
+  font-weight: bolder;
+  padding: 30px;
+  background-color: rgb(249, 241, 230);
+  border: 1px solid transparent;
+  border-radius: 20px;
+  margin: 20px;
+  box-shadow: 10px;
+}
+
+ul{
+  text-align: left;
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  border: 0.5px solid transparent;
+  border-radius: 10px;
+}
